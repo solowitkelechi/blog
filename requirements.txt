@@ -3,7 +3,7 @@ Bootstrap-Flask==2.3.2
 click==8.1.7
 colorama==0.4.6
 dominate==2.8.0
-Flask==3.0.0
+Flask==2.2.5
 Flask-CKEditor==0.5.0
 Flask-Gravatar==0.5.0
 Flask-Login==0.6.2
